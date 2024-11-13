@@ -80,7 +80,7 @@ def atualizar_estoque_display():
 def adicionar_produto():
     dialog = tk.Toplevel(root)
     dialog.title("Adicionar Produto")
-    dialog.geometry("400x300")  # Tamanho da janela de diálogo
+    dialog.geometry("600x500")  # Tamanho da janela de diálogo
 
     def salvar_produto():
         produto = produto_entry.get()
