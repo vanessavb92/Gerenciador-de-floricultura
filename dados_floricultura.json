@@ -1,0 +1,14 @@
+{
+    "estoque": {
+        "flor de liz": {
+            "quantidade": 2,
+            "preco": 50.0
+        },
+        "Orquidea": {
+            "quantidade": 1,
+            "preco": 45.0
+        }
+    },
+    "fluxo_caixa": 0,
+    "entregas": []
+}
