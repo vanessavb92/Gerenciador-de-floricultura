@@ -56,7 +56,7 @@ O sistema permite:
 floricultura/
 ├── floricultura.py         # Código principal
 ├── dados_floricultura.json # Base de dados gerada automaticamente
-├── Prints/                 # Pasta com capturas de tela do sistema
+├── Img                     # Pasta com capturas de tela do sistema
 └── README.md               # Documentação do projeto
 ```
 
